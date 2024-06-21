@@ -1,0 +1,219 @@
+*{
+    margin: 0%;;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+   
+}
+.nav_logo{
+  height: 50px;
+  width: 113px;
+}
+.logo{
+  background-image: url("ama1_logo.png");
+  background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+
+.nav-add{
+    margin-left: 30px;
+
+}
+.del_add{
+    color: #CCCC;
+   font-size: small;
+   margin-top: 5px;
+   margin-left: 15px;
+
+
+   
+}
+.cou{
+    color: #fff;
+    font-size: medium;
+    margin-top: 2px;
+    margin-left: 6px;
+    
+}
+.location_logo{
+    display: flex;
+    align-items: center;
+  
+}
+.nav_search{
+   align-items: center;
+   margin-left: 10px;
+  display: flex;
+  background-color: #0f1111;
+  width: 900px;
+  height: 40px;
+    
+}
+.search-selector{
+    margin-left: 30px;
+height: 40px;
+width: 50px;
+background-color: #e6e6ee;
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+
+.search-input{
+   height: 40px;
+   padding: 10px;
+   background-color: #ffff;
+   width: 900px;
+   font-size: 1rem;
+  
+}
+.icon{
+  
+    display: flex;
+    background-color: orange;
+    height: 39px;
+    width: 45px;
+    align-items: center;
+    font-size: 1.2rem;
+   justify-content: center;
+   border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: black;
+}
+.signin{
+    margin-left: 40px;
+}
+
+.first{
+    font-size: small;
+    height: 14px;
+    
+
+}
+.input_sel{
+    font-size: medium;
+    background-color: #0f1111;
+    color: #FFFFFF;
+    border: 0;
+}
+.sales{
+    margin-left: 20px;
+}
+.ret{
+    font-size: small;
+}
+.ord{
+    font-size: medium;
+}
+.cart{
+    margin-left: 30px;
+    font-size: 2rem;
+    
+}
+.font{
+    font-size: medium;
+  
+}
+/* panel */
+.panel{
+    height: 40px;
+    background-color: #0f1111;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+ 
+    
+}
+.panel h3{
+    margin-left: 5px;
+    font-weight: lighter;
+ 
+}
+.icon-bar{
+    margin-left: 20px;
+    width: 17px;
+}
+.optionss{
+    margin-left: 20px;
+    display: flex;
+   justify-content: space-between;
+  
+}
+.sale-for{
+    margin-left: 20px;
+    height: 28px;
+    font-size: 0.9rem;
+}
+.top-section{
+   
+    background-image: url("top-base.jpg");
+    background-size: cover;
+    height: 300px;
+    display: block;
+    justify-content: center;
+    display: flex;
+    align-items: flex-end;
+   
+}
+.top-msg{
+  
+    margin-left: 30px;
+    background-color: #f5f6f5;
+    color: #0f1111;
+    justify-content: center;
+    height: 40px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+.base{
+   
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#E6E6E6;
+   
+}
+.box{
+    margin-top: 30px;
+    /* border: 2px solid black; */
+    
+     height: 300px;
+     width: 40%;
+     justify-content: space-evenly;
+     margin-left: 20px;
+     margin-right: 20px;
+     background-color:white ;
+   
+}
+.box h2{
+    margin-top: 5px;
+    margin-left: 30px;
+    
+}
+.image-box{
+    height: 300px;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+
+
